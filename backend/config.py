@@ -1,0 +1,1 @@
+MODEL_PATH = 'models/medical_image_cnn.h5'
